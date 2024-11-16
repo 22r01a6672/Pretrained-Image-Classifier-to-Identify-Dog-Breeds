@@ -36,6 +36,7 @@ sh run_models_batch_uploaded.sh
 python check_images.py
 `
 - Then, compare the results to those produced by your program when you ran `run_models_batch.sh`.
+<br><br>
   
 ## CNN Architectures
 ### AlexNet
