@@ -10,7 +10,7 @@ This project is designed to identify different dog breeds from images and check 
 - **Results Analysis:** Measures the performance of the classifier, calculating key metrics such as accuracy, correct matches, and misclassifications.
 
 1. Clone the repository to your local machine:
-`git clone https://github.com/22r01a6672/Pretrained-Image-Classifier-to-Identify-Dog-Breeds.git`
+ `git clone https://github.com/22r01a6672/Pretrained-Image-Classifier-to-Identify-Dog-Breeds.git`
 2. Navigate to the project directory:
 `cd Pretrained-Image-Classifier-to-Identify-Dog-Breeds`
 3. Install the required packages:
