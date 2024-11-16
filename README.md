@@ -3,6 +3,7 @@
 
 ## Overview
 This project is designed to identify different dog breeds from images and check if an image contains a dog. It includes the following features:
+
 -***Dog Breed Classifier:*** The main part of the project, using pre-trained neural networks to recognize different dog breeds in images.
 - **Dog Detector:** Checks whether an image contains a dog or not.
 - **Image Preprocessing:** Prepares the images by resizing, normalizing, and transforming them so they work well with the CNN models.
