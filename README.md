@@ -9,12 +9,10 @@ This project is designed to identify different dog breeds from images and check 
 - **Image Preprocessing:** Prepares the images by resizing, normalizing, and transforming them so they work well with the CNN models.
 - **Results Analysis:** Measures the performance of the classifier, calculating key metrics such as accuracy, correct matches, and misclassifications.
 
-1. Clone the repository to your local machine:                                                                                                                      
+1. Clone the repository to your local machine:
 `git clone https://github.com/22r01a6672/Pretrained-Image-Classifier-to-Identify-Dog-Breeds.git`
-2. Navigate to the project directory:
-`cd Pretrained-Image-Classifier-to-Identify-Dog-Breeds`
-3. Install the required packages:
-`pip install -r requirements.txt`
+3. Navigate to the project directory:                                                                                                                            `cd Pretrained-Image-Classifier-to-Identify-Dog-Breeds`
+4. Install the required packages:                                                                                                                               `pip install -r requirements.txt`
 <br><br>
 
 ### Instructions
