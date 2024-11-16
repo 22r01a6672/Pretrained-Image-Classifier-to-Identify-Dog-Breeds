@@ -27,6 +27,7 @@ This project is designed to identify different dog breeds from images and check 
 sh run_models_batch_uploaded.sh
 ` 
 - Once the script runs, you can view the results in the following text files  "resnet_uploaded-images.txt", "alexnet_uploaded-images.txt", and "vgg_uploaded-images.txt", in the main repository:
+  
   - **resnet_uploaded-images.txt** - contains the results using ResNet CNN model.
   - **alexnet_uploaded-images.txt** - contains the results using AlexNet CNN model.
   - **vgg_uploaded-images.txt** - contains the results using VGG CNN model.
