@@ -1,5 +1,5 @@
 # Pre-trained Image Classifier for Dog Breed Identification
-<br>This repository contains a pre-trained image classifier developed using Python to identify dog breeds. The classifier utilizes three well-known Convolutional Neural Network (CNN) architectures: AlexNet, VGG, and ResNet. Each of these architectures is leveraged to classify images into different dog breeds, as well as determine whether an image contains a dog.<br><br>
+This repository contains a pre-trained image classifier developed using Python to identify dog breeds. The classifier utilizes three well-known Convolutional Neural Network (CNN) architectures: AlexNet, VGG, and ResNet. Each of these architectures is leveraged to classify images into different dog breeds, as well as determine whether an image contains a dog.<br><br>
 
 ## Overview
 This project is designed to identify different dog breeds from images and check if an image contains a dog. It includes the following features:
