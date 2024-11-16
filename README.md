@@ -1,5 +1,5 @@
 # Pre-trained Image Classifier for Dog Breed Identification
-This repository contains a pre-trained image classifier developed using Python to identify dog breeds. The classifier utilizes three well-known Convolutional Neural Network (CNN) architectures: AlexNet, VGG, and ResNet. Each of these architectures is leveraged to classify images into different dog breeds, as well as determine whether an image contains a dog.<br><br>
+<br>This repository contains a pre-trained image classifier developed using Python to identify dog breeds. The classifier utilizes three well-known Convolutional Neural Network (CNN) architectures: AlexNet, VGG, and ResNet. Each of these architectures is leveraged to classify images into different dog breeds, as well as determine whether an image contains a dog.<br><br><br>
 
 ## Overview
 This project is designed to identify different dog breeds from images and check if an image contains a dog. It includes the following features:
@@ -8,11 +8,11 @@ This project is designed to identify different dog breeds from images and check 
 - **Dog Detector:** Checks whether an image contains a dog or not.
 - **Image Preprocessing:** Prepares the images by resizing, normalizing, and transforming them so they work well with the CNN models.
 - **Results Analysis:** Measures the performance of the classifier, calculating key metrics such as accuracy, correct matches, and misclassifications.
-
-1. Clone the repository to your local machine:
-`git clone https://github.com/22r01a6672/Pretrained-Image-Classifier-to-Identify-Dog-Breeds.git`
-3. Navigate to the project directory:                                                                                                                            `cd Pretrained-Image-Classifier-to-Identify-Dog-Breeds`
-4. Install the required packages:                                                                                                                               `pip install -r requirements.txt`
+<br>
+ 
+1. Clone the repository to your local machine:<br> `git clone https://github.com/22r01a6672/Pretrained-Image-Classifier-to-Identify-Dog-Breeds.git`
+3. Navigate to the project directory: <br>`cd Pretrained-Image-Classifier-to-Identify-Dog-Breeds`
+4. Install the required packages: <br>`pip install -r requirements.txt`
 <br><br>
 
 ### Instructions
@@ -31,11 +31,7 @@ sh run_models_batch_uploaded.sh
   - **resnet_uploaded-images.txt** - contains the results using ResNet CNN model.
   - **alexnet_uploaded-images.txt** - contains the results using AlexNet CNN model.
   - **vgg_uploaded-images.txt** - contains the results using VGG CNN model.
-- Run the main class file, `check_images.py`, with the following command:
-`
-python check_images.py
-`
-- Then, compare the results to those produced by your program when you ran `run_models_batch.sh`.
+- Run the main class file, `check_images.py`, with the following command: `python check_images.py`. Then, compare the results to those produced by your program when you ran `run_models_batch.sh`.
 <br><br>
   
 ## CNN Architectures
@@ -49,7 +45,7 @@ VGG (Visual Geometry Group) is a CNN architecture known for its simplicity and d
 ResNet (Residual Neural Network) is a CNN architecture designed to solve the vanishing gradient problem in deep networks. It uses residual connections to allow smoother gradient flow during training. To use ResNet with the classifier, use the command `--arch resnet`.
 <br><br>
 
-## Contributions Welcome
+## How to Contribute
 Feel free to contribute to this project: 
 - If you find a bug or have a suggestion, Open an issue to let me know.
 - Want to improve the project? Submit a pull request with a clear explanation of your changes.
