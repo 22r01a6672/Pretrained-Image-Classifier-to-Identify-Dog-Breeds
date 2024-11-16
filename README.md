@@ -3,22 +3,22 @@
 
 ## Overview
 This project is designed to identify different dog breeds from images and check if an image contains a dog. It includes the following features:
-- ***Dog Breed Classifier:*** The main part of the project, using pre-trained neural networks to recognize different dog breeds in images.
+-***Dog Breed Classifier:*** The main part of the project, using pre-trained neural networks to recognize different dog breeds in images.
 - **Dog Detector:** Checks whether an image contains a dog or not.
 - **Image Preprocessing:** Prepares the images by resizing, normalizing, and transforming them so they work well with the CNN models.
-- **Results Analysis**: Measures the performance of the classifier, calculating key metrics such as accuracy, correct matches, and misclassifications.
+- **Results Analysis:** Measures the performance of the classifier, calculating key metrics such as accuracy, correct matches, and misclassifications.
 
-Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 `git clone https://github.com/22r01a6672/Pretrained-Image-Classifier-to-Identify-Dog-Breeds.git`
-Navigate to the project directory:
+2. Navigate to the project directory:
 `cd Pretrained-Image-Classifier-to-Identify-Dog-Breeds`
-Install the required packages:
+3. Install the required packages:
 `pip install -r requirements.txt`
 <br><br>
 
 ### Instructions
 1. Testing the Classifier:
-  - To test the classifier's performance on a set of images, run the following command:
+- To test the classifier's performance on a set of images, run the following command:
    `python test_classifier.py`
   - The results will display the accuracy, correct matches, and misclassifications.
 2. Using the Classifier:
