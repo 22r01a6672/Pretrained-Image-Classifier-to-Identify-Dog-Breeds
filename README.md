@@ -47,7 +47,6 @@ VGG (Visual Geometry Group) is a CNN architecture known for its simplicity and d
 
 ### ResNet
 ResNet (Residual Neural Network) is a CNN architecture designed to solve the vanishing gradient problem in deep networks. It uses residual connections to allow smoother gradient flow during training. To use ResNet with the classifier, use the command `--arch resnet`.
-ResNet (Residual Neural Network) is a CNN architecture designed to solve the vanishing gradient problem in deep networks. 
 <br><br>
 
 ## Contributions Welcome
