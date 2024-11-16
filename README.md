@@ -54,4 +54,4 @@ Feel free to contribute to this project:
 -Want to improve the project? Submit a pull request with a clear explanation of your changes.
 <br/><br/>
 
-![Dog Hug](https://github.com/22r01a6672/Pretrained-Image-Classifier-to-Identify-Dog-Breeds/raw/main/images/dog_hug.jpg)
+![Dog Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxTxyeu1HFzHNCgHJzgN_lJQ1bpIuzSGA3iQ&s)
