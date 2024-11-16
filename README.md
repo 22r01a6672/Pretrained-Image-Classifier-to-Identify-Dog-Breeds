@@ -18,9 +18,9 @@ Install the required packages:
 
 ### Instructions
 1. Testing the Classifier:
-- To test the classifier's performance on a set of images, run the following command:
-`python test_classifier.py`
-- The results will display the accuracy, correct matches, and misclassifications.
+  - To test the classifier's performance on a set of images, run the following command:
+   `python test_classifier.py`
+  - The results will display the accuracy, correct matches, and misclassifications.
 2. Using the Classifier:
 - Save your dog images in the `uploaded_images` folder of the repository. Then, use the provided functions to classify dog breeds in your own Python applications.
 - To process the images, run the following command in your terminal:
