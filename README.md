@@ -28,15 +28,16 @@ This project is designed to identify different dog breeds from images and check 
 `
 sh run_models_batch_uploaded.sh
 ` 
--Once the script runs, you can view the results in the following text files  "resnet_uploaded-images.txt", "alexnet_uploaded-images.txt", and "vgg_uploaded-images.txt", in the main repository:
+- Once the script runs, you can view the results in the following text files  "resnet_uploaded-images.txt", "alexnet_uploaded-images.txt", and "vgg_uploaded-images.txt", in the main repository:
   - **resnet_uploaded-images.txt** - contains the results using ResNet CNN model.
   - **alexnet_uploaded-images.txt** - contains the results using AlexNet CNN model.
   - **vgg_uploaded-images.txt** - contains the results using VGG CNN model.
--Run the main class file, `check_images.py`, with the following command:
+- Run the main class file, `check_images.py`, with the following command:
 `
 python check_images.py
 `
--Then, compare the results to those produced by your program when you ran run_models_batch.sh
+- Then, compare the results to those produced by your program when you ran `run_models_batch.sh`.
+  
 ## CNN Architectures
 ### AlexNet
 AlexNet is a deep CNN architecture designed for image recognition tasks. It consists of five convolutional layers followed by three fully connected layers. To use AlexNet with the classifier, use the command `--arch alexnet`.
@@ -51,8 +52,8 @@ ResNet (Residual Neural Network) is a CNN architecture designed to solve the van
 
 ## Contributions Welcome
 Feel free to contribute to this project: 
--If you find a bug or have a suggestion, Open an issue to let me know.
--Want to improve the project? Submit a pull request with a clear explanation of your changes.
+- If you find a bug or have a suggestion, Open an issue to let me know.
+- Want to improve the project? Submit a pull request with a clear explanation of your changes.
 <br/><br/>
 
 ![Dog Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxTxyeu1HFzHNCgHJzgN_lJQ1bpIuzSGA3iQ&s)
